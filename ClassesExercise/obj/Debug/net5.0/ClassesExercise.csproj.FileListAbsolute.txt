@@ -1,0 +1,16 @@
+C:\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.exe
+C:\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.deps.json
+C:\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.json
+C:\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.dev.json
+C:\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.dll
+C:\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.pdb
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csproj.AssemblyReference.cache
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfoInputs.cache
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfo.cs
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.dll
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\refint\ClassesExercise.dll
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.pdb
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.genruntimeconfig.cache
+C:\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ref\ClassesExercise.dll
